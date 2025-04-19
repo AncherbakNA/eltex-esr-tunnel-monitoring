@@ -1,2 +1,10 @@
 # eltex-esr-tunnel-monitoring
-script for monitoring tunnel status on eltex esr
+Скрипт для мониторинга IPsec policy-based туннеля на Eltex ESR
+
+Скрипт может быть использован:
+
+1. С помощью cron
+2. С помощью дописывания и добавления цикла + задержки
+
+
+ps я не против опитимизации скрипта, если у вас есть мысли - пожалуйста
